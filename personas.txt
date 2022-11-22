@@ -1,0 +1,11 @@
+Daniel Mercado 28 masculino 36 a 825.00
+Ignacio Nievas 28 masculino 16 b 1300.00
+Pablo Ramis 36 masculino 22 a 1500.00
+Hecto Suarez 29 masculino 12 b 1300.00
+Adriana Ibarra 11 femenino 12 c 475.00
+Nahuel Aguirre 6 masculino 25 a 750.00
+Estefania Juarez 29 femenino 32 a 825.00
+Yair Mendoza 9 masculino 15 b 1235.00
+Osvaldo Gentile 65 masculino 26 b 715.00
+Joaquin Romero 60 masculino 22 c 500.00
+Joaquin Romero 60 masculino 22 c 500.00

@@ -1,13 +1,15 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-typedef struct cola_circular {
-	
-	int anterior, posterior; 
+
+typedef struct _nodo
+{
+    int anterior, posterior; 
 	int * elementos; 
 	int capacidad;
-	int vacia; // Indica si la cola esta vacia para diferenciar cola vacia, de  una cola llena
-} circular;
+	int vacia;
+}circular;
+
 
 circular * inicializaCola(int);
 
@@ -18,7 +20,6 @@ int estaLlena(circular *);
 int frente(circular *); 
 void encolar(circular **, int); 
 int desencolar(circular **); 
-
 
 int main(){
 

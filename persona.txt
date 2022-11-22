@@ -1,0 +1,10 @@
+Daniel Mercado 28 masculino 36 a 
+Ignacio Nievas 28 masculino 16 b 
+Pablo Ramis 36 masculino 22 a 
+Hecto Suarez 29 masculino 12 b 
+Adriana Ibarra 11 femenino 12 c 
+Nahuel Aguirre 6 masculino 25 a 
+Estefania Juarez 29 femenino 32 a 
+Yair Mendoza 9 masculino 15 b 
+Osvaldo Gentile 65 masculino 26 b 
+Joaquin Romero 60 masculino 22 c 
